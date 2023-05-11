@@ -10,7 +10,7 @@ PAGES = {
         "picture_logo": "streamlit/socmed.png",
         "movies": "streamlit/movies.png",
         "activities": "streamlit/activities.png",
-        "description": "The Filipino band, Cup of Joe, was formed by six talented lads from Baguio namely vocalists Edgar Gian Bernardino and Raphaell Ridao, pianist Vixen “Xen” Gareza, lead guitarist Antonio Gabriel “Gab” Fernandez, bassist Raphael “Seve” Severino and rhythm guitarist Clint Joules “CJ” Fernandez and almost all of them came from a family with musical backgrounds.",
+        "description": "The Filipino band, Cup of Joe, was formed by six talented lads from Baguio namely vocalists Edgar Gian Bernardino and Raphaell Ridao, pianist Vixen “Xen” Gareza, lead guitarist Antonio Gabriel “Gab” Fernandez, bassist Raphael “Seve” Severino and rhythm guitarist Clint Joules “CJ” Fernandez and almost all of them came from a family with musical backgrounds. (LastFM)",
         "followers": "1.5 Million Listeners, 73.4 Thousand Followers ",
         "movies_desc": "Music Featured in 3 Movies and 3 Shows",
         "activities_desc": "Performed in UP Fair and had their First Collab"
