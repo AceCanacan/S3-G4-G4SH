@@ -1,15 +1,5 @@
 import streamlit as st
 
-st.markdown("""
-<style>
-body {
-    color: #fff;
-    background-color: #3b1717;
-}
-</style>
-    """, unsafe_allow_html=True)
-
-
 # Set the page title and icon
 st.set_page_config(page_title="My Streamlit App", page_icon=":smiley:", layout="wide", initial_sidebar_state="expanded")
 
