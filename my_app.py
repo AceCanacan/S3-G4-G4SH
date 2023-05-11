@@ -1,7 +1,8 @@
 import streamlit as st
 
 # Set the page title and icon
-st.set_page_config(page_title="My Streamlit App", page_icon=":smiley:", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="My Streamlit App", page_icon=":smiley:", layout="wide", initial_sidebar_state="expanded", 
+                   page_bg_color='#3b1717', text_color='white')
 
 # Define a dictionary with page names and content
 PAGES = {
